@@ -1,6 +1,6 @@
 # Vision Trransformers 
 # TransferLearning.ipynb has the code used to this project 
-
+# accuracy depends on the data 
 Model:
 For this project, we utilized a pre-trained Vision Transformer (ViT) model for transfer learning. The
 specific architecture used is ViT-B_16, which is a variant of the Vision Transformer model with 16 layers.
